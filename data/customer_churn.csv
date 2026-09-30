@@ -1,0 +1,21 @@
+Age,TenureMonths,MonthlyCharges,SupportTickets,Contract,InternetService,Churn
+22,3,79,4,Month-to-month,Fiber,1
+35,24,65,1,One year,DSL,0
+42,36,55,0,Two year,DSL,0
+29,8,95,5,Month-to-month,Fiber,1
+51,48,60,0,Two year,DSL,0
+24,5,88,3,Month-to-month,Fiber,1
+39,18,72,2,One year,Fiber,0
+46,42,58,1,Two year,DSL,0
+31,7,91,4,Month-to-month,Fiber,1
+57,60,52,0,Two year,DSL,0
+28,12,83,3,One year,Fiber,0
+44,30,68,1,One year,DSL,0
+26,4,99,6,Month-to-month,Fiber,1
+53,54,57,0,Two year,DSL,0
+33,10,76,2,Month-to-month,Fiber,1
+48,40,61,0,Two year,DSL,0
+37,20,70,1,One year,Fiber,0
+23,6,89,4,Month-to-month,Fiber,1
+41,32,63,1,Two year,DSL,0
+30,9,86,3,Month-to-month,Fiber,1
